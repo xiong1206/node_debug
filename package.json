@@ -1,0 +1,24 @@
+{
+  "name": "node_debug",
+  "version": "1.0.0",
+  "description": "node_debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiong1206/node_debug.git"
+  },
+  "author": "Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiong1206/node_debug/issues"
+  },
+  "homepage": "https://github.com/xiong1206/node_debug#readme",
+  "keywords": [],
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-route": "^3.2.0"
+  }
+}
